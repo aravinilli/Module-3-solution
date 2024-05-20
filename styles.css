@@ -1,0 +1,10 @@
+.tall-section {
+    height: 1000px;
+    background-color: #a8a8a8; 
+    padding: 20px;
+}
+
+.navbar-nav > li > a {
+    background-color: #a0a0a0; 
+}
+
